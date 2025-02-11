@@ -14,6 +14,9 @@ Joe-Goldberg is an intelligent book recommendation system that leverages Large L
 - Category-based filtering across multiple book genres
 - Customizable search with adjustable recommendation parameters
 
+## 🖼️ Demo
+![Image](https://github.com/user-attachments/assets/0ea1c806-d575-4a7d-9cef-6c9c49c7c947)
+
 ## 🛠️ Technical Stack
 
 ### Core Technologies
