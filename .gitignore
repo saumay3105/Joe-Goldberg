@@ -1,2 +1,7 @@
 *.xml
 /.idea
+.env
+*.csv
+*.txt
+.env
+.env
