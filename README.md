@@ -1,5 +1,5 @@
 # Joe-Goldberg: AI-Powered Book Recommendation System 📚
-
+![Image](https://github.com/user-attachments/assets/ebcc0420-c22b-465d-9735-95b68fe4ab39)
 Joe-Goldberg is an intelligent book recommendation system that leverages Large Language Models (LLMs) to provide personalized book suggestions based on user preferences and reading history. The system uses semantic search with Google's Generative AI embeddings to find books similar to user queries, while also considering emotional tones and categories.
 
 ## 🚀 Features
