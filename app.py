@@ -184,5 +184,5 @@ if __name__ == "__main__":
         server_port=7860,
         debug=True,
         show_error=True,
-        share=False,
+        share=True,
     )
