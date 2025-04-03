@@ -1,5 +1,6 @@
 # Joe-Goldberg: AI-Powered Book Recommendation System 📚
 ![Image](https://github.com/user-attachments/assets/ebcc0420-c22b-465d-9735-95b68fe4ab39)
+
 Joe-Goldberg is an intelligent book recommendation system that leverages Large Language Models (LLMs) to provide personalized book suggestions based on user preferences and reading history. The system uses semantic search with Google's Generative AI embeddings to find books similar to user queries, while also considering emotional tones and categories.
 
 ## 🚀 Features
@@ -16,6 +17,11 @@ Joe-Goldberg is an intelligent book recommendation system that leverages Large L
 
 ## 🖼️ Demo
 ![Image](https://github.com/user-attachments/assets/0ea1c806-d575-4a7d-9cef-6c9c49c7c947)
+
+### 🛠️ Hosting
+Joe-Goldberg is hosted on multiple platforms:
+- **Azure**: [Joe-Goldberg on Azure](http://joe-goldberg.eastus.cloudapp.azure.com:7860/)  
+- **Hugging Face Spaces**: [Joe-Goldberg on Hugging Face](https://huggingface.co/spaces/saumay3105/Joe-Goldberg)
 
 ## 🛠️ Technical Stack
 
@@ -47,7 +53,7 @@ Joe-Goldberg is an intelligent book recommendation system that leverages Large L
 - Python-dotenv
 - Jupyter Notebooks
 
-## 📁 Project Structure
+## 💁️‍🌿 Project Structure
 
 ```
 joe-goldberg/
@@ -101,3 +107,4 @@ joe-goldberg/
    - Statistical analysis of book categories
    - Emotional content visualization
    - Genre distribution analysis
+
